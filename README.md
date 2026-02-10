@@ -10,7 +10,7 @@ Actualmente en proceso de reconversión hacia el desarrollo web, enfocado en con
 - 🔎 Me interesa el diseño de arquitectura backend, modelado de datos y optimización de procesos.  
 - 💻 Actualmente estoy trabajando en proyectos personales (E-commerce API y Fintech API).  
 - 📚 En constante aprendizaje sobre backend, bases de datos y buenas prácticas.  
-- 🤝 Busco colaborar en proyectos donde pueda aportar y seguir aprendiendo.
+- 🤝 Actualmente buscando oportunidades como Backend Developer o Full Stack Jr, donde pueda aplicar y expandir conocimientos en APIs, bases de datos y buenas prácticas de software.
 
 ---
 
@@ -31,12 +31,22 @@ Actualmente en proceso de reconversión hacia el desarrollo web, enfocado en con
 
 ---
 
-## 📌 Proyectos destacados
+## 🚀 Proyectos destacados
 
-### **🛒 E-Commerce Backend API**
-API REST completa con autenticación, productos, categorías, órdenes, migraciones, Docker y documentación con Swagger.  
-**Stack:** NestJS, TypeORM, PostgreSQL, JWT, Docker  
-🔗 Repositorio: https://github.com/BaptistaJose/ecommerce-backend-baptistajose
+### 🏥 Vita Red – Sistema de Gestión de Turnos Médicos
+Aplicación full stack para la gestión de turnos médicos, usuarios y roles administrativos, desarrollada como proyecto final del bootcamp Henry.
+
+- **Rol:** Backend & arquitectura  
+- **Stack:** NestJS · TypeScript · PostgreSQL · TypeORM · Docker · Swagger · Cloudinary · GitHub Actions  
+🔗 **Repositorio:** https://github.com/proyectofinal2025-g1/vita-red-app
+
+---
+
+### 🛒 E-Commerce API
+API REST para la gestión completa de un e-commerce, enfocada en modelado de negocio, seguridad y escalabilidad.
+
+- **Stack:** NestJS · PostgreSQL · TypeORM · JWT · Docker  
+🔗 **Repositorio:** https://github.com/BaptistaJose/ecommerce-backend-baptistajose
 
 ---
 
