@@ -22,7 +22,7 @@ Actualmente en proceso de reconversión hacia el desarrollo web, enfocado en con
 - PostgreSQL · MongoDB  
 
 ### **Frontend**
-- React · HTML · CSS
+- React · HTML · CSS · Vite
 
 ### **DevOps / Infra**
 - Docker · docker-compose  
